@@ -5,10 +5,7 @@ Style updates for new[tc] site forum
 
 Updates to get the [tc] forum layout like this: http://px3.in/im/img_0524002.png
 
-newStyles.css,
-forums.css 
-
-Shall be updated
+newStyles.css, forums.css shall be updated.
 
 Apart from updating the stylesheet the font link in header shall also be updated to:
 
